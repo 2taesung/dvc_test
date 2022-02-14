@@ -1,0 +1,5 @@
+outs:
+- md5: 542029c0acf816416cd9035cb2738f26
+  size: 5
+  path: demo.txt
+  isexec: true
